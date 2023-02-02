@@ -6,6 +6,7 @@ import User from './User';
 function App() {
   return (
     <div className="App">
+      <Calulate/>
       <User/>
     </div>
   );
